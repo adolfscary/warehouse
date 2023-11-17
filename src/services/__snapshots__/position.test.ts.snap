@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`service position getPositions 1`] = `
+[
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+  {
+    "positionId": Any<String>,
+    "productId": Any<String>,
+    "quantity": Any<Number>,
+    "x": Any<Number>,
+    "y": Any<Number>,
+    "z": Any<Number>,
+  },
+]
+`;

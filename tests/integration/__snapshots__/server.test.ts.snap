@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`integration server 1`] = `
+{
+  "distance": Any<Number>,
+  "pickingOrder": [
+    {
+      "positionId": Any<String>,
+      "productId": Any<String>,
+    },
+    {
+      "positionId": Any<String>,
+      "productId": Any<String>,
+    },
+  ],
+}
+`;
